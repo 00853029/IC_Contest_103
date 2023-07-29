@@ -1,0 +1,14 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+/home/JengDeChang/icc2015cb_pre/sim/testfixture1.v
+/home/JengDeChang/icc2015cb_pre/syn/SET_syn.v
+-v
+/usr/cad/lib/CBDK_IC_Contest_v2.1/Verilog/tsmc13_neg.v
++nc64bit
++access+r
++define+FSDB_FILE=\"SET.fsdb\"
++define+SDF
++define+SDFFILE=\"/home/JengDeChang/icc2015cb_pre/syn/SET_syn.sdf\"
++define+MD1
